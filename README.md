@@ -14,7 +14,7 @@ It takes user input (such as a theme, word, or mood) and generates creative poem
 * Uses natural language processing techniques.
 * Easy to run in Jupyter Notebook.
 
-  **🛠️ Requirements**
+**🛠️ Requirements**
   Make sure you have Python installed along with the following libraries:
   * pip install transformers
   * pip install torch
