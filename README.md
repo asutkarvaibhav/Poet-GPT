@@ -5,7 +5,7 @@
 **This project is a Poem Generator built using Python.
 It takes user input (such as a theme, word, or mood) and generates creative poems automatically.**
 
-![Poem Generator Demo]([https://example.com/demo.png](https://images.app.goo.gl/g67CzEijvMXx2sh77))
+![Poem Generator Demo](https://images.app.goo.gl/g67CzEijvMXx2sh77)
 
 
 https://images.app.goo.gl/g67CzEijvMXx2sh77
