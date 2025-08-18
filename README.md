@@ -9,6 +9,11 @@ It takes user input (such as a theme, word, or mood) and generates creative poem
 
 <img src="[images/demo.png](https://assets.eweek.com/uploads/2024/11/ew_20241122-ai-poetry-machines-vs-human-creativity.png)" alt="Poem Generator Demo" width="400">
 
+<p align="center">
+  <img src="[images/demo.png](https://assets.eweek.com/uploads/2024/11/ew_20241122-ai-poetry-machines-vs-human-creativity.png" alt="Poem Generator Demo"width="400">
+</p>
+
+
 
 
 https://images.app.goo.gl/g67CzEijvMXx2sh77
