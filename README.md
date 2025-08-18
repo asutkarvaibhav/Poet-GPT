@@ -2,21 +2,28 @@
 
 # Poem Generator 📝
 
-**This project is a Poem Generator built using Python.
-It takes user input (such as a theme, word, or mood) and generates creative poems automatically.**
+**📖 Introduction**  
+The Poem Generator is a fun and creative project that uses Natural Language Processing (NLP) techniques to automatically generate poems based on user input. Whether you provide a single word, a theme, or a mood, the generator crafts meaningful verses that resemble human-written poetry.
+This project is built in Python and implemented in a Jupyter Notebook for easy experimentation and learning. It demonstrates the power of language models in generating artistic text, blending programming with creativity.  
+  
+**Why this project?**  
+* To explore how AI and NLP can be applied in a creative domain.
+* To practice working with text generation models and libraries like transformers.
+* To provide users with a simple and interactive way to generate poetry.
+
+What makes it interesting?  
+* You can create poems on any theme or topic (love, nature, friendship, sadness, motivation, etc.).
+* Each run can produce unique verses, making the output different every time.
+* It shows how technology can be used not just for solving problems but also for artistic expression.
 
 ![Poem Generator Demo](https://assets.eweek.com/uploads/2024/11/ew_20241122-ai-poetry-machines-vs-human-creativity.png)
 
-<img src="[images/demo.png](https://assets.eweek.com/uploads/2024/11/ew_20241122-ai-poetry-machines-vs-human-creativity.png)" alt="Poem Generator Demo" width="400">
-
-<p align="center">
-  <img src="[images/demo.png](https://assets.eweek.com/uploads/2024/11/ew_20241122-ai-poetry-machines-vs-human-creativity.png" alt="Poem Generator Demo"width="400">
-</p>
 
 
 
 
-https://images.app.goo.gl/g67CzEijvMXx2sh77
+
+
 
 **📂 Project Structure**
 
